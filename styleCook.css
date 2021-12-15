@@ -1,0 +1,82 @@
+body {
+    background-image: url("img/Stove_Kitchen.png");
+   background-size: 100%;
+   height: 100%;
+   background-repeat: no-repeat;
+}
+
+#fill {
+    position: absolute;
+	width: 90%;
+    top: 10.5%;
+    left: 19.5%;
+    display: none;
+}
+
+#pot {
+    position: absolute;
+	width: 85%;
+    top: 16%;
+    left: 24%;
+}
+
+
+/* #on {
+    position: absolute;
+	width: 65%;
+    top: 43%;
+    left: 20%;
+} */
+
+#steam {
+    position: absolute;
+	width: 85%;
+    top: 11%;
+    left: 24%;
+    display: none;
+}
+
+#carrots_boil {
+    position: absolute;
+	width: 90%;
+    top: 7.5%;
+    left: 28.5%;
+    display: none;
+}
+
+#cuttingBoard {
+    position: absolute;
+    width: 25%;
+    top: 60%;
+    left: 29%;
+}
+
+#carrot_chopped {
+    position: absolute;
+    width: 25%;
+    top: 60%;
+    left: 30%;
+}
+
+#next {
+    position: absolute;
+	width: 15%;
+    top: -30%;
+    left: 60%;
+}
+
+#video {
+    position: absolute;
+    top: 60%;
+    left: 29%;
+    display: none;
+}
+
+#ocean {
+    position: absolute;
+    background-color: rgb(77, 190, 255);
+    height: 187px;
+    width: 80px;
+    top: 36%;
+    left: 16%;
+}

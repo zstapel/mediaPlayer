@@ -1,0 +1,77 @@
+body {
+    background-image: url("img/Kitchen_Washing.png");
+   background-size: 90%;
+   height: 100%;
+   background-repeat: no-repeat;
+}
+
+#plate1 {
+    position: absolute;
+    top: 83%;
+    left: 26%;
+    height: 132px;
+    width: 112px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+
+#plate2 {
+    position: absolute;
+	top: 84%;
+    left: 30%;
+    height: 130px;
+    width: 112px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+#plate3 {
+    position: absolute;
+    top: 91%;
+    left: 36%;
+    height: 68px;
+    width: 143px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+
+#soapy {
+    position: absolute;
+    background-color: rgb(212, 121, 212);
+    outline: 2px solid black;
+    height: 40px;
+    width: 72px;
+    top: 69%;
+    left: 32%;
+    border-radius: 25px;
+}
+
+#wateron {
+    position: absolute;
+	width: 85%;
+    top: 20%;
+    left: -6%;
+    display: none;
+}
+
+#plant {
+    position: absolute;
+    height: 50px;
+    width: 212px;
+    top: 31%;
+    left: 42%;
+    background-color: rgb(94, 58, 25)
+}
+
+#sink_sound {
+    top: 55%;
+    left: 49%;
+    position: absolute;
+    height: 32px;
+    width: 32px;
+    background-color: #555;
+    border-radius: 50%;
+    outline: 2px solid black;
+}
